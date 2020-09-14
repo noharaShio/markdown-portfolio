@@ -1,0 +1,6 @@
+- hello
+  - terrible huh 
+- swords
+- pentacles
+- cups
+- wands
